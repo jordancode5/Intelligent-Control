@@ -26,12 +26,8 @@ This repository investigates how **combining neural or fuzzy elements with class
 
 | Module | Description |
 |--------|-------------|
-| `fuzzy_control/` | Fuzzy logic controllers for setpoint tracking and error-based control |
-| `neural_control/` | Neural-based controllers and system identifiers |
-| `decision_layer/` | Neural decision-making systems to switch between control modes or parameters |
-| `hybrid_examples/` | Projects that integrate classical PID with fuzzy or neural logic |
-| `tuning_methods/` | Techniques for tuning unknown systems using partial intuition + data-driven adjustment |
-| `plots/` | Visual outputs from simulation (step responses, error convergence, controller effort) |
+| `Cliff_walker/` | A Q-learning approach to coding the cliff walker game |
+| `Fuzzy_Navigation/` | A fuzzy logic-based approach to simple vehicle navigation |
 
 ---
 
