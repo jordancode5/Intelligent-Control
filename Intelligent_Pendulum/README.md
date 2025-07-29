@@ -7,6 +7,7 @@ This repository contains the implementation of a classic **inverted pendulum bal
 This project explores real-time control of an inverted pendulum using:
 
 - ✅ Q - learning
+    - pendulum_mk5.py (it is really hard to set up pendulum physics that even try to balance well)
 - ✅ Fuzzy Logic Control (FLC)
 - ✅ Linear Quadratic Regulator (LQR)
 - ✅ Simulation in MATLAB and Simulink
